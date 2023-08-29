@@ -2,6 +2,9 @@
 - 🤝 I'm a Site Reliability Engineer from [SADA Systems](https://github.com/sadasystems)
 - 📫 I'm on Slack as both chris.terry and christerryexpel!
 - My main point of contact on your side of things is @bjorn-stange-expel
+
+# Off-topic
+- [Main Github Profile](https://github.com/tubaterry)
 - [Making my profile picture](https://www.youtube.com/watch?v=cR04Ey-StBc)
 
 <!---
